@@ -1,0 +1,1 @@
+bin\Debug\SharepointWebPartToolPane.wsp

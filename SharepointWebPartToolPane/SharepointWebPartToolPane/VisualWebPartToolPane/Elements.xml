@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="VisualWebPartToolPane" List="113" Url="_catalogs/wp">
+    <File Path="VisualWebPartToolPane\VisualWebPartToolPane.webpart" Url="SharepointWebPartToolPane_VisualWebPartToolPane.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="yunusemrearac" />
+    </File>
+  </Module>
+</Elements>
